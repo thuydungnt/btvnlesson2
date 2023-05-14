@@ -1,0 +1,29 @@
+.title {
+  padding: 10px;
+  margin-left: 10px;
+  color: darkgray;
+  font-size: large;
+    
+}
+.container {
+
+  display: inline;
+  flex-direction: column;
+  justify-content: space-around; 
+  padding: 10px;
+  color: darkgray;
+}
+.card {
+  display: flex;
+  justify-content:flex-start; 
+  padding: 10px;
+
+}
+.intro {
+  color: darkgray;
+  display: flex;
+  justify-content: space-between; 
+  padding: 10px;
+  margin-left: 10px;
+  width: 39%;
+}
